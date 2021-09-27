@@ -1,10 +1,10 @@
 ## Willdbeast
-# Wolves
+# Wolves 🐺
 
 
 <div>
- <img src="img/tela.png"/>
-  <img src="img/tela.png"/>
+ <img src="tela3.png"/>
+  <img src="tela4.png"/>
 </div>
 
 
